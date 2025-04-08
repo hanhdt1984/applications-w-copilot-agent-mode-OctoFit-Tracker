@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "redesigned-spork-g6pj46rr9hpp6x-8000.app.github.dev"
+    "shiny-waddle-v94jw569p72xrrr-8000.app.github.dev"
 ]
 
 
